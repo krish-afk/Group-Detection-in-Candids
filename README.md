@@ -1,3 +1,4 @@
+Once you download the code, please remove the placeholder text files in backend/outputs, backend/uploads and backend/temp
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
